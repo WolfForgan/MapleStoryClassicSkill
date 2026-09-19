@@ -1,0 +1,5 @@
+# 统一换行：仓库内一律存 LF，检出亦为 LF（与打包产物内容一致）
+* text=auto eol=lf
+
+# 打包产物为二进制
+*.skill binary
